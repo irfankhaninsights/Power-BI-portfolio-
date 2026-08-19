@@ -1,6 +1,7 @@
 # E-Commerce Sales & Profit Performance Dashboard
 
 ## 📊 Project Overview
+![E-Commerce Dashboard Layout](E-Commerce%20Sales%20%26%20Performance%20Dashboard.png)
 An interactive data analytics portfolio tracking **\$2.30M in Total Sales** and **\$286.40K in Net Profit**. This project focuses on frontline visual reporting, data modeling, and business intelligence development inside Microsoft Power BI. It evaluates profitability metrics, product margins, and transactional loops to uncover hidden corporate revenue leakage and performance milestones.
 
 ---
